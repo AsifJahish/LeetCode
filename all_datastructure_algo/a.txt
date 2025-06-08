@@ -1,0 +1,197 @@
+2. Arrays and Strings
+Basic operations (insert, delete, search)
+
+
+Sliding Window Technique
+
+
+Two Pointers Technique
+
+
+Prefix Sum / Difference Arrays
+
+
+
+🔹 3. Hashing
+Hash Tables / Hash Maps
+
+
+Frequency Counting
+
+
+Hash Set vs Hash Map usage
+
+
+
+🔹 4. Linked Lists
+Singly Linked List
+
+
+Doubly Linked List
+
+
+Circular Linked List
+
+
+Fast and Slow Pointers (Floyd’s Algorithm)
+
+
+
+🔹 5. Stacks and Queues
+Stack (with array/linked list)
+
+
+Queue (simple, circular, deque)
+
+
+Monotonic Stack/Queue
+
+
+Implementations using 2 stacks/queues
+
+
+
+🔹 6. Trees
+Binary Trees
+
+
+Binary Search Trees
+
+
+Tree Traversals (DFS, BFS)
+
+
+Lowest Common Ancestor (LCA)
+
+
+Tree Diameter
+
+
+Segment Trees / Fenwick Trees (Advanced)
+
+
+
+🔹 7. Heaps and Priority Queues
+Min Heap / Max Heap
+
+
+Heap Sort
+
+
+Kth Largest/Smallest Element problems
+
+
+
+🔹 8. Graphs
+Representations (Adjacency List/Matrix)
+
+
+DFS and BFS
+
+
+Topological Sorting
+
+
+Dijkstra’s, Bellman-Ford, Floyd-Warshall
+
+
+Union-Find (Disjoint Set Union - DSU)
+
+
+Minimum Spanning Tree (Prim's & Kruskal’s)
+
+
+
+🔹 9. Greedy Algorithms
+Activity Selection
+
+
+Huffman Encoding
+
+
+Fractional Knapsack
+
+
+Job Scheduling
+
+
+
+🔹 10. Divide and Conquer
+Merge Sort
+
+
+Quick Sort
+
+
+Binary Search (with variants)
+
+
+
+🔹 11. Backtracking
+N-Queens
+
+
+Sudoku Solver
+
+
+Permutations & Combinations
+
+
+
+🔹 12. Dynamic Programming (DP)
+0/1 Knapsack, Subset Sum
+
+
+Longest Common Subsequence / Substring
+
+
+Matrix Chain Multiplication
+
+
+DP on Trees, DP on Graphs
+
+
+Tabulation vs Memoization
+
+
+
+🔹 13. Tries and Strings
+Trie (Prefix Tree)
+
+
+KMP Algorithm
+
+
+Rabin-Karp Algorithm
+
+
+Z-Algorithm
+
+
+Suffix Arrays / Trees (Advanced)
+
+
+
+🔹 14. Bit Manipulation
+Bitwise Operators
+
+
+Subsets using Bits
+
+
+XOR Trick
+
+
+
+🔹 15. Sliding Window / Two Pointers
+Anagrams in a string
+
+
+Max Sum Subarray
+
+
+Longest Substring Without Repeating Characters
+
+
+
+
